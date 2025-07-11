@@ -36,7 +36,7 @@ My GitHub showcases my most important work — not everything I practice, just w
 
 ## 🎯 Long-Term Goals (2025–2029)
 
-- 🎓 Maintain a high GPA (3.9+ target) throughout my studies at USIU-Africa  
+- 🎓 Maintain a high GPA (3.0+ target) throughout my studies at USIU-Africa  
 - 👩🏽‍💼 Gain practical experience through internships with data-driven and SDG-focused organizations  
 - 💻 Build impactful projects that address real-world challenges aligned with the UN Sustainable Development Goals (SDGs)  
 - 🧪 Conduct and publish research related to development, education, health, or equity  
