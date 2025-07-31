@@ -7,8 +7,7 @@
 ---
 
 ## 💡 What I'm About  
-I’m passionate about using data to solve meaningful problems — especially those aligned with the Sustainable Development Goals (SDGs). Through research, internships, and presenting my work, I aim to contribute to education, health, and equity outcomes in East Africa and beyond.
-
+I’m passionate about using data science to drive real-world impact across the Sustainable Development Goals — particularly in climate action (SDG 13), clean energy (SDG 7), health (SDG 3), and education (SDG 4). My goal is to contribute to solutions that address both regional challenges in East Africa and global sustainability priorities. Through research, internships, and presenting data-driven projects, I’m building a portfolio that bridges social impact and innovation, preparing me to collaborate on both African development initiatives and European-led research or academic programs.
 My GitHub showcases my most important work — not everything I practice, just what helps me grow and serve.
 
 ---
