@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tiffany Mojo Omondi
 
 🎓 BSc in Data Science & Analytics Student @ USIU-Africa (2025–2029)  
-📌 Building a 4-year portfolio focused on real-world data, research, and impact  
+📌 Building a portfolio focused on real-world data, research, and impact  
 🎯 Aiming for top scholarships and graduate studies in Austria 🇦🇹, Germany 🇩🇪, Canada 🇨🇦, or Australia 🇦🇺
 
 ---
